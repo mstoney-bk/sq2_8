@@ -1,0 +1,4 @@
+steps:
+  - label: "step 1"
+    trigger: "deploy"
+    branches: "main"
