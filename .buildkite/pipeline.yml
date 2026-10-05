@@ -1,4 +1,4 @@
 steps:
-  - label: "step 1 revised"
+  - label: "step 1 revised again"
     trigger: "deploy"
     branches: "main"
