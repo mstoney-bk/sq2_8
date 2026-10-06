@@ -1,3 +1,3 @@
 steps:
   - label: "step 1 revised again"
-    comman: echo "hello there"
+    command: echo "hello there"
