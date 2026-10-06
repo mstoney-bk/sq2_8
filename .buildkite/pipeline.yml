@@ -1,3 +1,5 @@
 steps:
   - label: "step 1 revised again"
     command: echo "hello there"
+    concurrency: 1
+    concurrency_group: "deploy/auth"
